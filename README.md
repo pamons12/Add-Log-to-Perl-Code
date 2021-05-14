@@ -8,7 +8,7 @@ When run on a directory of perl files it adds code to pm or pl files that writes
 
 ### Command Line options
 Option | Arguments
--------|----------
+-----|----------
 -l (Required) | A OR add -> Add log statements <br>R OR rem OR remove -> Remove log statements
 -d (Optional will use hardcoded if not given)
   Path to start directory ex: C:/path/to/start
