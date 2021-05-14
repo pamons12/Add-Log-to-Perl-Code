@@ -1,5 +1,5 @@
-# Add-Log-to-Perl-Code
-When run on a directory of perl files it adds code to pm or pl files that writes to a log file whenever a subroutine is called. Can also remove this code with correct command line options.
+# Automatically Adds Log Statements to Perl Code
+When run on a directory of perl files the program adds code to pm or pl files that writes to a log file whenever a subroutine is called. Can also remove this code with the command line options.
 
 ### Usage
 1. Download or clone this repo
