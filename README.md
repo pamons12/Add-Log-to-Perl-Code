@@ -7,9 +7,9 @@ When run on a directory of perl files it adds code to pm or pl files that writes
 3. Run via the command line using: `perl addLogToPerl.pl (command line options)`
 
 ### Command Line options
--l (Required) 
-  A OR add -> Add log statements
-  R OR rem OR remove -> Remove log statements
+Option | Arguments
+-------|----------
+-l (Required) | A OR add -> Add log statements R OR rem OR remove -> Remove log statements
 -d (Optional will use hardcoded if not given)
   Path to start directory ex: C:/path/to/start
 -lp (Optional will use hardcoded if not given)
