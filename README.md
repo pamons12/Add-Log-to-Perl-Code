@@ -13,3 +13,4 @@ Option | Arguments
 -d (Optional will use hardcoded if not given) | Path to start directory ex: C:/path/to/start
 -lp (Optional will use hardcoded if not given) | Path to log file, will create file if does not exist ex: C:/path/to/log.txt
 -c (optional) | T OR true -> Enable console output showing what subroutines/files got log statements added or removed
+-help | shows command line options
