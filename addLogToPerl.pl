@@ -25,8 +25,8 @@ use File::Copy;
 use File::Basename;
 use Getopt::Long;
 
-my $startDir = 'C:/Users/patma/OneDrive/Documents/Computer\ Science/PERL';
-my $logFilePath = 'C:/Work/logFile.txt';
+my $startDir = '';
+my $logFilePath = '';
 
 my $usageMessage = "Usage:
 -l (Required)\n\tA OR add -> Add log statements\n\tR OR rem OR remove -> Remove log statements
