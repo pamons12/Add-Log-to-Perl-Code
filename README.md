@@ -5,7 +5,7 @@ When run on a directory of perl files it adds code to pm or pl files that writes
 1. Download or clone this repo
 2. Have this file sit at the top of the directory you want to search through
 3. Run using the command
-'perl addLogToPerl.pl [command line options]'
+'<perl addLogToPerl.pl [command line options]>'
 
 -l (Required)\n\tA OR add -> Add log statements\n\tR OR rem OR remove -> Remove log statements
 -d (Optional will use hardcoded if not given)\n\t Path to start directory ex: C:/path/to/start
